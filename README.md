@@ -1,1 +1,1 @@
-# codecatalysts
+# CodeEquity
